@@ -1,0 +1,41 @@
+﻿record_Id,department_name,department_code,year,average_performance_score,total_revenue_generated,total_cost,training_hours_completed
+1,Finance Department,FIN,2021,3.56,3716375.00,2572212.00,1206
+2,Finance Department,FIN,2022,3.79,3878773.00,2448393.00,840
+3,Finance Department,FIN,2023,3.48,4041171.00,2506538.00,363
+4,Finance Department,FIN,2024,4.99,4203570.00,2832724.00,2081
+5,Finance Department,FIN,2025,4.13,4365968.00,2512136.00,2788
+6,Operations Department,OPS,2021,3.07,2488449.00,1807283.00,702
+7,Operations Department,OPS,2022,3.48,2747180.00,2056045.00,2433
+8,Operations Department,OPS,2023,4.56,3005911.00,1529673.00,887
+9,Operations Department,OPS,2024,4.92,3264642.00,1892219.00,2376
+10,Operations Department,OPS,2025,3.84,3523373.00,2179098.00,1431
+11,Data and Analytics Department,DAT,2021,3.52,831510.00,503513.00,2259
+12,Data and Analytics Department,DAT,2022,3.15,930263.00,538298.00,306
+13,Data and Analytics Department,DAT,2023,4.81,1029017.00,530397.00,307
+14,Data and Analytics Department,DAT,2024,3.42,1127771.00,740953.00,1038
+15,Data and Analytics Department,DAT,2025,4.01,1226524.00,855814.00,839
+16,Engineering Department,ENG,2021,3.45,2617677.00,2020994.00,1082
+17,Engineering Department,ENG,2022,3.78,2818702.00,1837686.00,1280
+18,Engineering Department,ENG,2023,3.40,3019728.00,1773250.00,426
+19,Engineering Department,ENG,2024,3.76,3220754.00,2193710.00,1776
+20,Engineering Department,ENG,2025,3.43,3421780.00,2081007.00,1102
+21,Product Management Department,PRD,2021,3.79,2112327.00,1409643.00,2296
+22,Product Management Department,PRD,2022,3.37,2329136.00,1619924.00,875
+23,Product Management Department,PRD,2023,3.16,2545945.00,1375689.00,1262
+24,Product Management Department,PRD,2024,4.46,2762755.00,2168296.00,2823
+25,Product Management Department,PRD,2025,3.27,2979564.00,2131170.00,2636
+26,Customer Support Department,CST,2021,4.22,1659976.00,842769.00,317
+27,Customer Support Department,CST,2022,3.06,1709834.00,891423.00,1085
+28,Customer Support Department,CST,2023,3.91,1759693.00,929547.00,778
+29,Customer Support Department,CST,2024,4.79,1809552.00,1171148.00,1793
+30,Customer Support Department,CST,2025,3.91,1859410.00,1349308.00,1464
+31,Human Resources Department,HR,2021,4.15,3234633.00,1893763.00,1269
+32,Human Resources Department,HR,2022,4.84,3375569.00,1858426.00,2902
+33,Human Resources Department,HR,2023,4.07,3516505.00,2004297.00,944
+34,Human Resources Department,HR,2024,3.68,3657441.00,1837080.00,699
+35,Human Resources Department,HR,2025,3.16,3798378.00,2169712.00,401
+36,Marketing Department,MKT,2021,4.01,1632536.00,953822.00,1025
+37,Marketing Department,MKT,2022,3.52,1764618.00,1362282.00,2867
+38,Marketing Department,MKT,2023,3.10,1896700.00,1459149.00,2948
+39,Marketing Department,MKT,2024,3.66,2028782.00,1274443.00,1635
+40,Marketing Department,MKT,2025,3.22,2160865.00,1397211.00,748
