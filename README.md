@@ -41,11 +41,11 @@ The project execution followed a structured 5-stage data lifecycle pipeline:
 Raw entries underwent rigorous cleaning protocols to rectify historical tracking flaws, including resolving conflicting status values, mapping inconsistent department nomenclature, rectifying date anomalies, and establishing strict referential integrity across MySQL relational tables.
 
 ## Deliverables Included
-* **Consolidated stakeholder analytical report in Microsoft Word format (Roblox_Africa_Final_Analytics_Report.docx).
+* Consolidated stakeholder analytical report in Microsoft Word format (Roblox_Africa_Final_Analytics_Report.docx).
 
-* **Production-ready SQL script library containing table schemas, constraints, and analytical views (Roblox_Africa_Analysis_Script.sql).
+* Production-ready SQL script library containing table schemas, constraints, and analytical views (Roblox_Africa_Analysis_Script.sql).
 
-* **Complete project documentation, data dictionaries, error correction logs, and meeting transcripts (Roblox - Africa - Data_Dictionary.xlsx, Roblox - Africa - Notes.docx, Roblox- Africa- Mistakes Handout.
+* Complete project documentation, data dictionaries, error correction logs, and meeting transcripts (Roblox - Africa - Data_Dictionary.xlsx, Roblox - Africa - Notes.docx, Roblox- Africa- Mistakes Handout.
 
 ## Dashboard Screenshots
 
