@@ -48,6 +48,11 @@ Raw entries underwent rigorous cleaning protocols to rectify historical tracking
 * Complete project documentation, data dictionaries, error correction logs, and meeting transcripts (Roblox - Africa - Data_Dictionary.xlsx, Roblox - Africa - Notes.docx, Roblox- Africa- Mistakes Handout.
 
 ## Dashboard Screenshots
+<img width="2727" height="1521" alt="Health   Insurance png" src="https://github.com/user-attachments/assets/ad5edbe8-d1af-4d07-818f-d9bd4ab5b55e" />
+<img width="2544" height="1449" alt="Executive workforce Overview png" src="https://github.com/user-attachments/assets/d2518b2d-5ce0-4609-9ffe-465e3b974a4c" />
+<img width="2727" height="1506" alt="Workforce png" src="https://github.com/user-attachments/assets/ac03f373-667b-4ada-bfd2-ddcf6d36f322" />
+<img width="2772" height="1521" alt="Performance png" src="https://github.com/user-attachments/assets/767e9ba5-9ebd-4532-89ad-e332093bd249" />
+<img width="2742" height="1509" alt="Finance png" src="https://github.com/user-attachments/assets/d3d91d86-f9a2-4e47-9397-549663dfc9d2" />
 
 ## Recommended Next Steps
 * **Align Staffing & Budgetary Control**: Intervene in high-cost-growth departments (Customer Support and Data & Analytics) by tying budget allocations directly to net contribution and efficiency KPIs rather than flat headcount models.
